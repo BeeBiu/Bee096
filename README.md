@@ -7,3 +7,7 @@ PT/BT动漫媒体库文件夹整理，特点，不用修改源目录名称，可
 ![image](https://github.com/BeeBiu/Bee096/blob/main/%E6%BC%94%E7%A4%BA/%E7%95%8C%E9%9D%A2.png)
 
 软件会在同目录下生成一个info.json文件，特别注意表格数据需要手动保存，不是实时保存的，json数据全部在内存操作，我也是第一次用不知道稳不稳
+
+######################################
+新增海报墙界面，但是数据要手动建档，下载完看一部建一部，差不多就这样了
+![image](https://github.com/BeeBiu/Bee096/blob/main/%E6%BC%94%E7%A4%BA/%E6%B5%B7%E6%8A%A5%E5%A2%99.JPG)
